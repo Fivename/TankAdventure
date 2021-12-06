@@ -1,0 +1,34 @@
+﻿
+{
+    "id" : 0,
+    "date" : "2021.11.24",
+    "stage" : 1,
+    "runSpeed" : 5,
+    "jumpSpeed" : 7,
+    "doubleJumpSpeed" : 5,
+    "health"          : 40,
+    "magicPoint"      : 0,
+    "money"           : 10,
+    "damage"          : 1,
+    "defense"         : 1,
+    "experience"      : 0,
+    "level"           : 1,
+    "currenSkill"     : {
+        "SkillName" : "Dash",
+        "SkillLevel" : 0,
+        "LearnLevel" : 0,
+        "Description" : null,
+        "IsActive"    : true
+    },
+    "items"           : {
+    },
+    "skills"          : {
+        "Dash" : {
+            "SkillName" : "Dash",
+            "SkillLevel" : 0,
+            "LearnLevel" : 0,
+            "Description" : null,
+            "IsActive"    : true
+        }
+    }
+}
