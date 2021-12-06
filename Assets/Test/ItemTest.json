@@ -1,0 +1,80 @@
+﻿[
+  {
+    "Hp": 101,
+    "Mp": 11,
+    "ActiveBuffList": [
+      {
+        "m_BuffKind": 5,
+        "m_BuffOverlap": 1,
+        "m_BuffShutDownType": 1,
+        "m_BuffCalculateType": 1,
+        "m_Num": 5,
+        "m_Layer": 1,
+        "layerLimit": 0,
+        "m_Length": 3,
+        "timeLimit": 0,
+        "timer": 0  
+      },
+      {
+        "m_BuffKind": 5,
+        "m_BuffOverlap": 1,
+        "m_BuffShutDownType": 1,
+        "m_BuffCalculateType": 1,
+        "m_Num": 6,
+        "m_Layer": 1,
+        "layerLimit": 0,
+        "m_Length": 4,
+        "timeLimit": 0,
+        "timer": 0
+      }
+    ],
+    "Id": 1,
+    "Name": "\u6D4B\u8BD5\u836F\u6C34",
+    "Type": 3,
+    "Quality": 5,
+    "Description": "\u8FD9\u662F\u4E00\u4E2A\u836F\u6C34",
+    "Capacity": 10,
+    "BuyPrice": 50,
+    "SellPrice": 25,
+    "Sprite": "/\u6D4B\u8BD5\u8DEF\u5F84"
+  },
+  {
+    "Hp": 102,
+    "Mp": 12,
+    "ActiveBuffList": [
+      {
+        "m_BuffKind": 5,
+        "m_BuffOverlap": 1,
+        "m_BuffShutDownType": 1,
+        "m_BuffCalculateType": 1,
+        "m_Num": 5,
+        "m_Layer": 1,
+        "layerLimit": 0,
+        "m_Length": 3,
+        "timeLimit": 0,
+        "timer": 0
+      },
+      {
+        "m_BuffKind": 5,
+        "m_BuffOverlap": 1,
+        "m_BuffShutDownType": 1,
+        "m_BuffCalculateType": 1,
+        "m_Num": 6,
+        "m_Layer": 1,
+        "layerLimit": 0,
+        "m_Length": 4,
+        "timeLimit": 0,
+        "timer": 0
+      }
+    ],
+    "Id": 2,
+    "Name": "\u6D4B\u8BD5\u836F\u6C34",
+    "Type": 3,
+    "Quality": 5,
+    "Description": "\u8FD9\u662F\u4E00\u4E2A\u836F\u6C34",
+    "Capacity": 10,
+    "BuyPrice": 50,
+    "SellPrice": 25,
+    "Sprite": "/\u6D4B\u8BD5\u8DEF\u5F84"
+  }
+]
